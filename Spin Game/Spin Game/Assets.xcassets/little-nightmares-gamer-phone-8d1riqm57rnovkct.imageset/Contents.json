@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "little-nightmares-gamer-phone-8d1riqm57rnovkct.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
